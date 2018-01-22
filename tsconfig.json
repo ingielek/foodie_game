@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    /* Basic Options */
+    "target": "es2016",
+    "module": "commonjs",
+    /* Strict Type-Checking Options */
+    "strict": false
+  }
+}
